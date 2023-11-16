@@ -1,4 +1,4 @@
-#Project: Library Management System in C language
+# Library-Mangement-System
 
 Project Overview:
 
